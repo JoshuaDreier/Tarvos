@@ -1,0 +1,14 @@
+# Blender MTL File: 'earth.blend'
+# Material Count: 1
+
+newmtl earthSurfaceMaterial
+Ns 5E4
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.1    0.1   0.1
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd 8081_earthmap4k.jpg
+map_Ks 8081_earthmap4k.jpg
+

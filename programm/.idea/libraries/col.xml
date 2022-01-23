@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="col">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/col" />
+      <root url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/fxml" />
+      <root url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/obj" />
+      <root url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/stl" />
+      <root url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/tds" />
+      <root url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/x3d" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/col" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/fxml" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/obj" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/stl" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/tds" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/Prototyp 1/Prototypen/lib/JFX3DModelImporters_EA_2014-02-09.zip!/apidoc/com/interactivemesh/jfx/importer/x3d" recursive="false" />
+  </library>
+</component>

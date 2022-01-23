@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tarvos:jar">
+    <output-path>D:/Tarvos</output-path>
+    <root id="archive" name="Prototyp 2.jar">
+      <element id="module-output" name="Prototyp 2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/programm/lib/jimObjModelImporterJFX.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/programm/lib/JFX3DModelImporters_EA_2014-02-09.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programmieren/Libraries/javafx-sdk-15.0.1/lib/src.zip" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="application" name="javafx-15" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="programm/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx-15"/>
+	<classpathentry kind="var" path="MAVEN_REPOSITORY/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar"/>
+	<classpathentry kind="output" path="out/production/Prototyp 2"/>
+</classpath>

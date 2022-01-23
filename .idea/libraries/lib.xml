@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/programm/lib/jimObjModelImporterJFX.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programm/lib/JFX3DModelImporters_EA_2014-02-09.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

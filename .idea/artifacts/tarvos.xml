@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="tarvos">
+    <output-path>D:/tarvos2</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="javaCode.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Prototyp_2.jar">
+        <element id="module-output" name="Prototyp 2" />
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="application" name="javafx-15" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar" />
+      <element id="artifact" artifact-name="Tarvos:jar" />
+    </root>
+  </artifact>
+</component>

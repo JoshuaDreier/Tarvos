@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.PerspectiveCamera?>
+<?import javafx.scene.Group?>
+<?import javafx.scene.PointLight?>
+
+<?import javafx.scene.SubScene?>
+
+
+<?import program.RotatableGroup?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800" prefWidth="1000" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javaCode.Controller">
+   <center>
+      <AnchorPane prefHeight="800" prefWidth="1000" BorderPane.alignment="CENTER" id="anchorPane">
+         <children>
+            <SubScene height="800" width="1000.0">
+               <root>
+                  <RotatableGroup id="rotatableGroup" >
+
+                  </RotatableGroup>
+                  <Region />
+               </root>
+            </SubScene>
+            <Slider layoutX="20.0" layoutY="700" prefHeight="14.0" prefWidth="900" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>
